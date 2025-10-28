@@ -1,0 +1,8 @@
+{
+  "name": "CartPole-v1",
+  "observation_space": "Box([-4.8               -inf -0.41887903        -inf], [4.8               inf 0.41887903        inf], (4,), float32)",
+  "action_space": "Discrete(2)",
+  "is_discrete": true,
+  "obs_dim": 4,
+  "action_dim": 2
+}
